@@ -1,5 +1,7 @@
 Coppersmith - Feature Generation, as Functions
 ================================
+
+[![Join the chat at https://gitter.im/CommBank/coppersmith](https://badges.gitter.im/CommBank/coppersmith.svg)](https://gitter.im/CommBank/coppersmith?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/CommBank/coppersmith.svg?branch=master)](https://travis-ci.org/CommBank/coppersmith)
 [![Gitter chat](https://badges.gitter.im/CommBank/coppersmith.png)](https://gitter.im/CommBank/coppersmith)
 
